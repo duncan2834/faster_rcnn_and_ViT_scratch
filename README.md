@@ -7,7 +7,7 @@ Dự án này triển khai Faster R-CNN, một mô hình phát hiện đối tư
 - Bao gồm các thành phần chính: Region Proposal Network (RPN), ROI Pooling, Classification Head.
 - Tối ưu hóa hiệu suất với PyTorch.
 ## Model
-faster_rcnn_scratch/
+<pre> <code> faster_rcnn_scratch/
 ├── data/               # Chứa dữ liệu và tập dữ liệu (ví dụ: COCO)
 ├── models/             # Định nghĩa mô hình Faster R-CNN
 ├── utils/              # Các hàm tiện ích (dataloader, visualization,...)
@@ -16,3 +16,4 @@ faster_rcnn_scratch/
 ├── predict.py          # Script để dự đoán trên ảnh mới
 ├── requirements.txt    # Danh sách các thư viện cần thiết
 └── README.md           # Tài liệu hướng dẫn dự án
+</code> </pre>
