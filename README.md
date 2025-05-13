@@ -17,3 +17,8 @@ Dự án này triển khai Faster R-CNN, một mô hình phát hiện đối tư
 ├── requirements.txt    # Danh sách các thư viện cần thiết
 └── README.md           # Tài liệu hướng dẫn dự án
 </code> </pre>
+
+## Kết quả
+Do thời gian huấn luyện lâu, nên chỉ demo 10 epoch, mô hình chưa học được quá nhiều, mAp chỉ khoảng 0.4. Nhưng cơ bản mô hình hoạt động được.
+
+# Demo![output_frcnn_1](https://github.com/user-attachments/assets/04166de6-f885-4834-95b5-8a63ba8f6600)
